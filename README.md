@@ -39,5 +39,5 @@ This internship and project work is part of the CodSoft Java Development Interns
 It helped me apply my Java knowledge to practical, real-world scenarios and improve my development workflow using Git and GitHub.
 
 📫 Connect with Me
-GitHub: Aryan21-max
-LinkedIn: Aryan Dandapat
+GitHub: [Aryan21-max]
+LinkedIn:[[ Aryan Dandapat]
